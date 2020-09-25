@@ -11,7 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +61,19 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Books" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Android-CandyCodedApplication_Androidx" />
     <property name="recommended.upgrade.do.not.ask.for.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LIPAM\AndroidStudioProjects\Android-CandyCodedApplication\app\src\main\res\layout" />
+      <recent name="C:\Users\LIPAM\AndroidStudioProjects\Android-CandyCodedApplication\app\src\main\java\com\pluralsight\candycoded" />
+    </key>
   </component>
   <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="All in Android-CandyCodedApplication" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
@@ -189,17 +202,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="44" key="CommitChangelistDialog2" timestamp="1601033904731">
+    <state x="326" y="44" key="CommitChangelistDialog2" timestamp="1601042257757">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="326" y="44" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601033904731" />
-    <state x="1026" y="205" key="FileChooserDialogImpl" timestamp="1601028280291">
+    <state x="326" y="44" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601042257757" />
+    <state x="1026" y="205" key="FileChooserDialogImpl" timestamp="1601042056609">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="1026" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1601028280291" />
+    <state x="1026" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1601042056609" />
     <state width="1557" height="331" key="GridCell.Tab.0.bottom" timestamp="1601040001724">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -220,9 +233,9 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="392" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601034363994" />
-    <state x="993" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1601039764715">
+    <state x="993" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1601040894361">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="993" y="274" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1601039764715" />
+    <state x="993" y="274" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1601040894361" />
   </component>
 </project>
